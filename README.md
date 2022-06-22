@@ -5,4 +5,4 @@ http轮子学习模拟
 
 # rpcMock
 
-可以着重学习其中的注册中心服务发现的实现，学习服务注册是如果基于反射的方式找到对应的结构方法，以及通过connect将http转rpc的处理
+代码参考模拟自 [7天用Go从零实现RPC框架GeeRPC | 极客兔兔 (geektutu.com)](https://geektutu.com/post/geerpc.html)， 可以着重学习其中的注册中心服务发现的实现，学习服务注册是如果基于反射的方式找到对应的结构方法，以及通过connect将http转rpc的处理
